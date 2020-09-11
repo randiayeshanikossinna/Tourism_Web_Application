@@ -1,0 +1,137 @@
+*{
+	margin:0;
+	padding:0;
+
+	
+   
+
+
+}
+header{
+	background-image:url(../Tourism.jpg);
+	height:100vh;
+	background-size:cover;
+	background-position:center;
+}
+	nav {
+	background:#000066;
+	background: linear-gradient(); 
+	text-align: center;
+	border-radius: 5px;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display:inline;
+}
+nav ul li a {
+    color:#e6e6ff;
+	text-transform:uppercase;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left:70px;
+	margin-right:  70px;
+	display:inline-block;
+}
+nav ul li a:hover{
+	color:red;
+}
+
+
+
+.text .no1 h1{
+	margin-left: 200px;
+}
+
+ .more {
+ 	display: inline-flex;
+ }
+
+ .more .pic{
+ 	float: right;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+ .more .text {
+ 	float: left;
+ 	margin-left: 100px;
+ 	margin-top: 50px;
+ }
+
+ .more .text a{
+ 	font-size: 20px;
+ 	color: red;
+ }
+.final{
+	margin-left: 39px;
+	width: 1270px;
+	height: 400px;
+	background: #e0e0d1;
+	display: inline-flex;
+	color:#000000;
+}
+.final .content{
+	color:#000000;
+	float:left;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.final .content p{
+	font-color:#000000;
+	font-size:40px;
+	font-weight: bold;
+}
+
+.final .content ul{
+	color:#000000;
+	font-size:20px;
+	font-weight: bold;
+}
+
+.final .contact{
+	color:#000000;
+	floal:left;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.final .contact h1{
+	color:#000000;
+	font-size:40px;
+	font-weight: bold;
+}
+.final .contact p{
+	color:#000000;
+	font-size:20px;
+	font-weight: bold;
+}
+.final .contact .fb .pic{
+	float: left;
+}
+.link	{
+	display: inline-flex;
+}
+.final .contact .link .pic{
+	float: left;
+}
+
+.final .contact .tele .pic{
+	float: left;
+}
+.final .contact .mail .pic{
+	float: left;
+}
+.video2 {
+	float: center;
+	margin-left: 40px;
+}
+
+.video3 {
+	float: center;
+}
+.video4 {
+	float: center;
+}
+.video5 {
+	float: center;
+}
